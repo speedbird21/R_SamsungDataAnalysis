@@ -42,13 +42,13 @@ activity description and then pipe that into summarise and calculate the mean.
 
 Finally the final tidy data set is written out to a text file called meanData.txt
 
-The final variables in the data set are:
+##The final variables in the data set are:
 
 subjectId = id of the subject
 
 description = activity description
 
-###The following are the mean and standard deviation measurement variables from the original data features
+####The following are the mean and standard deviation measurement variables from the original data features
 tBodyAcc.mean...X
 
 tBodyAcc.mean...Y
