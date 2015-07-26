@@ -45,16 +45,24 @@ Finally the final tidy data set is written out to a text file called meanData.tx
 The final variables in the data set are:
 
 subjectId = id of the subject
+
 description = activity description
 
 ###The following are the mean and standard deviation measurement variables from the original data features
 tBodyAcc.mean...X
+
 tBodyAcc.mean...Y
+
 tBodyAcc.mean...Z
+
 tGravityAcc.mean...X
+
 tGravityAcc.mean...Y
+
 tGravityAcc.mean...Z
+
 tBodyAccJerk.mean...X
+
 tBodyAccJerk.mean...Y
 tBodyAccJerk.mean...Z
 tBodyGyro.mean...X
