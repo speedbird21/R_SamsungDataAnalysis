@@ -46,7 +46,9 @@ The final variables in the data set are:
 
 subjectId = id of the subject
 description = activity description
-tBodyAcc.mean...X 
+
+###The following are the mean and standard deviation measurement variables from the original data features
+tBodyAcc.mean...X
 tBodyAcc.mean...Y
 tBodyAcc.mean...Z
 tGravityAcc.mean...X
